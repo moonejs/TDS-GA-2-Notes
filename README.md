@@ -30,34 +30,8 @@ Learning Git becomes easier when you try a few steps yourself.
 
 ---
 
-## Topics Covered
-
-- Understanding Git history  
-- Finding when a file was added  
-- Removing a file from all commits  
-- Rewriting Git history safely  
-- Using .gitignore properly  
-- Creating .env.example as a best practice  
-- Force pushing after rewriting history  
-
----
-
-## Who Is This For?
-
-- Students working on GA-2 TDS assignment  
-- Anyone confused about removing secrets from Git history  
-- Beginners who want Git explained in simple language  
-
----
-
-## Important Note
-
-If sensitive data was committed:
-- Removing the file from history is not enough  
-- Keys should always be rotated  
-- Prevention using .gitignore is very important  
-
----
 
 This repository is created for learning purposes.  
 If it helps you, feel free to use it and improve your understanding.
+
+
