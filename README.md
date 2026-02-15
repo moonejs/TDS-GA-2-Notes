@@ -28,6 +28,9 @@ The reason I skipped some commands is so that you can also explore and practice 
 
 Learning Git becomes easier when you try a few steps yourself.
 
+Link to git repo and **All TDS Notes**
+[Link](https://github.com/moonejs/TDS-IITM)
+
 ---
 
 
